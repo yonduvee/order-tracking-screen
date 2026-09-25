@@ -1,0 +1,40 @@
+AI Tool: ChatGPT
+
+Project: Order Tracking Screen Assessment
+
+
+Prompt 1:
+can you do it what's the screen shot says
+
+
+Prompt 2:
+ok i will open vscode tell me step by step
+
+
+Prompt 3:
+done
+
+
+Prompt 4:
+done
+
+
+Prompt 5:
+done
+
+
+Prompt 6:
+done
+
+
+Prompt 7:
+# Selected text:
+Install packages:
+
+My request:
+PS D:\order-tracking-screen> Install packages:
+Install : The term 'Install' is not recognized...
+
+
+Prompt 8:
+tested
