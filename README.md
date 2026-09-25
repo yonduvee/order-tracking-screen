@@ -30,7 +30,3 @@ A modern mobile-first order tracking interface for an e-commerce application.
 
 4. Tracking Not Available Yet
 
-
-## Installation
-
-Clone repository:
